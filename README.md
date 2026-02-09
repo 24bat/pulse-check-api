@@ -112,8 +112,24 @@ Your final `README.md` must replace these instructions. It must cover:
 ---
 Submit your repo link via the [online](https://forms.office.com/e/rGKtfeZCsH) form.
 
-## 9. Demo Preparation
-Be prepared for a 30-minute interview where you will:
-1.  **Walk through your Diagram** 
-2.  **Live Demo**
-3.  **Q&A**
+## 🛑 Pre-Submission Checklist
+**WARNING:** Before you submit your solution, you **MUST** pass every item on this list.
+If you miss any of these critical steps, your submission will be **automatically rejected** and you will **NOT** be invited to an interview.
+
+### 1. 📂 Repository & Code
+- [ ] **Public Access:** Is your GitHub repository set to **Public**? (We cannot review private repos).
+- [ ] **Clean Code:** Did you remove unnecessary files (like `node_modules`, `.env` with real keys, or `.DS_Store`)?
+- [ ] **Run Check:** if we clone your repo and run `npm start` (or equivalent), does the server start immediately without crashing?
+
+### 2. 📄 Documentation (Crucial)
+- [ ] **Architecture Diagram:** Did you include a visual Diagram (Flowchart or Sequence Diagram) in the README?
+- [ ] **README Swap:** Did you **DELETE** the original instructions (the problem brief) from this file and replace it with your own documentation?
+- [ ] **API Docs:** Is there a clear list of Endpoints and Example Requests in the README?
+
+
+### 3. 🧹 Git Hygiene
+- [ ] **Commit History:** Does your repo have multiple commits with meaningful messages? (A single "Initial Commit" is a red flag).
+
+---
+**Ready?**
+If you checked all the boxes above, submit your repository link in the application form. Good luck! 🚀
