@@ -1,0 +1,7 @@
+# requirements.txt
+# These are the Python packages needed to run the Pulse Check API
+# Install them all at once with: pip install -r requirements.txt
+
+# Flask is the web framework — it handles HTTP requests and routing
+# Without Flask, we'd have to write a web server from scratch
+flask==3.0.3
